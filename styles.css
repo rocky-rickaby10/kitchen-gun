@@ -1,0 +1,13 @@
+.format, body, pre, h1 {
+	font-family: Comic Sans MS;
+	text-align: center
+}
+
+pre {
+	line-height: 2.0;
+}
+
+a:link, a:visited {
+	color: #0000ee;
+	text-decoration: none;
+}
